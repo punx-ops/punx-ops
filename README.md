@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web development
 - 🏫 I'm a high school student
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Hello, my name is I Putu Satya Darmika. I'm a high school student.
+- ⚡ Description: Hello, my name is I Putu Satya Darmika. I'm a high school student.
                I want to become a fullstack web developer. And now im learning JavaScript and PHP.
 
 <!---
